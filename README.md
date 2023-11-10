@@ -35,6 +35,27 @@ A simple and interactive Drum Kit web application built using HTML, CSS, and Jav
 
 - Drum sounds sourced from the [Free Drum Kits](https://freewavesamples.com/) collection.
 
+## Contributing
+
+Contributions are welcome! If you have any improvements or new features to suggest, please create a pull request.
+
+
+---
+
+Enjoy playing the Drum Kit! If you have any questions or issues, feel free to [open an issue](https://github.com/NikhilKalloli/Drum-Kit/issues).
+
+
+## 🔗 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikhilKalloli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kalloli-a6ab2a25b/)
+
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at nikhilkalloli0097@gmail.com
 
 
 Feel the rhythm and have fun drumming! 🎶
