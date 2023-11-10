@@ -35,8 +35,6 @@ A simple and interactive Drum Kit web application built using HTML, CSS, and Jav
 
 - Drum sounds sourced from the [Free Drum Kits](https://freewavesamples.com/) collection.
 
-## Demo
 
-[View Drum Kit Demo](#)  <!-- Add the link to your live demo if available -->
 
 Feel the rhythm and have fun drumming! 🎶
