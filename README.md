@@ -40,8 +40,6 @@ A simple and interactive Drum Kit web application built using HTML, CSS, and Jav
 Contributions are welcome! If you have any improvements or new features to suggest, please create a pull request.
 
 
----
-
 Enjoy playing the Drum Kit! If you have any questions or issues, feel free to [open an issue](https://github.com/NikhilKalloli/Drum-Kit/issues).
 
 
